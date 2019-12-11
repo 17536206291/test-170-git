@@ -13,4 +13,10 @@ public class Test170GitApplicationTests {
     public void contextLoads() {
     }
 
+    public static void main(String[] args) {
+        System.out.println("============");
+
+    }
+
+
 }
